@@ -1,0 +1,15 @@
+C:\Projects\image_optimizer\ImageConverter\bin\Release\net10.0-windows\win-x64\ImageConverter.exe
+C:\Projects\image_optimizer\ImageConverter\bin\Release\net10.0-windows\win-x64\background.png
+C:\Projects\image_optimizer\ImageConverter\bin\Release\net10.0-windows\win-x64\ImageConverter.deps.json
+C:\Projects\image_optimizer\ImageConverter\bin\Release\net10.0-windows\win-x64\ImageConverter.runtimeconfig.json
+C:\Projects\image_optimizer\ImageConverter\bin\Release\net10.0-windows\win-x64\ImageConverter.dll
+C:\Projects\image_optimizer\ImageConverter\bin\Release\net10.0-windows\win-x64\ImageConverter.pdb
+C:\Projects\image_optimizer\ImageConverter\obj\Release\net10.0-windows\win-x64\ImageConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\image_optimizer\ImageConverter\obj\Release\net10.0-windows\win-x64\ImageConverter.AssemblyInfoInputs.cache
+C:\Projects\image_optimizer\ImageConverter\obj\Release\net10.0-windows\win-x64\ImageConverter.AssemblyInfo.cs
+C:\Projects\image_optimizer\ImageConverter\obj\Release\net10.0-windows\win-x64\ImageConverter.csproj.CoreCompileInputs.cache
+C:\Projects\image_optimizer\ImageConverter\obj\Release\net10.0-windows\win-x64\ImageConverter.dll
+C:\Projects\image_optimizer\ImageConverter\obj\Release\net10.0-windows\win-x64\refint\ImageConverter.dll
+C:\Projects\image_optimizer\ImageConverter\obj\Release\net10.0-windows\win-x64\ImageConverter.pdb
+C:\Projects\image_optimizer\ImageConverter\obj\Release\net10.0-windows\win-x64\ImageConverter.genruntimeconfig.cache
+C:\Projects\image_optimizer\ImageConverter\obj\Release\net10.0-windows\win-x64\ref\ImageConverter.dll

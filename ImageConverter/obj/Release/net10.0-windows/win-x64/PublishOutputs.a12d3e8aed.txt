@@ -1,0 +1,6 @@
+C:\Projects\image_optimizer\ImageConverter\publish\background.png
+C:\Projects\image_optimizer\ImageConverter\publish\ImageConverter.exe
+C:\Projects\image_optimizer\ImageConverter\publish\ImageConverter.dll
+C:\Projects\image_optimizer\ImageConverter\publish\ImageConverter.deps.json
+C:\Projects\image_optimizer\ImageConverter\publish\ImageConverter.runtimeconfig.json
+C:\Projects\image_optimizer\ImageConverter\publish\ImageConverter.pdb
